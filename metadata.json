@@ -1,0 +1,6 @@
+{
+  "name": "WORD OF GOD",
+  "description": "The Holy Scriptures with Room full-text search, personalized reading plans, angelic audio voice reminders, and multiple Bible translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
